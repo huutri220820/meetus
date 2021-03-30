@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "309220136531",
+    "project_id": "dsc-api-abcd",
+    "storage_bucket": "dsc-api-abcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309220136531:android:4bddda32dc27da6c9a18a6",
+        "android_client_info": {
+          "package_name": "com.example.gsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309220136531-34cnhslqivnug12vj7sere39pqqamku6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gsc",
+            "certificate_hash": "d758c7405db9ab2ccf3a0d1a8eedcd646a1b32ca"
+          }
+        },
+        {
+          "client_id": "309220136531-jl26ptu9u5lit86r45c1lemq76gdqdit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhxAdUZH4Y9kRmEZRKLQ92oCVz9q8Kx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309220136531-jl26ptu9u5lit86r45c1lemq76gdqdit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

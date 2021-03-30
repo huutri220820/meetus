@@ -1,0 +1,49 @@
+name: gsc
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  curved_navigation_bar: ^0.3.7
+  firebase_auth: ^1.0.1
+  firebase_core: ^1.0.2
+  firebase_storage: ^8.0.1
+  flutter_svg: ^0.18.0
+  flutter_tindercard: ^0.2.0
+  google_sign_in: ^5.0.1
+  http: ^0.13.1
+  image_picker: ^0.7.3
+  path: ^1.8.0
+  provider: ^4.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets\fonts\Montserrat-Bold.ttf
+          weight: 700
+        - asset: assets\fonts\Montserrat-Light.ttf
+          weight: 300
+        - asset: assets\fonts\Montserrat-Medium.ttf
+          weight: 500
+        - asset: assets\fonts\Montserrat-SemiBold.ttf
+          weight: 600
+    - family: Quicksand
+      fonts:
+        - asset: assets\fonts\Quicksand-Regular.ttf
+          weight: 400
+  uses-material-design: true
