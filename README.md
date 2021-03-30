@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Meetus</h1>
-
 <div align="center">
   <h3>
     <a href="https://github.com/VTV24/meetus-api">
@@ -15,12 +14,10 @@
 </div>
 
 ### Built With
-
 - [Nestjs](https://nestjs.com/)
 - [Flutter](https://flutter.dev/)
 
 ## Features
-
 Initiate community activities and share it with each other to participate
 
 ## How To Use
