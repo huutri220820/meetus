@@ -40,7 +40,7 @@ $ git clone https://github.com/huutri220820/meetus.git
 1. API
 	$ yarn start:dev
 2. Apllication 
-	Find out here https://flutter.dev/docs/get-started/test-drive
+	Find out here : https://flutter.dev/docs/get-started/test-drive
 	Or install apk file : https://drive.google.com/file/d/1ONcO2qCnkHdxQN-tN_PcbqOfj80xVCXj
 ```
 
